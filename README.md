@@ -31,7 +31,7 @@
 ## 👤 Автор и контакты
 
 * **Lead Developer:** Samrat Beketov
-* **Корпоративный контакт:** [samrat.beketov@microsoft.com](https://www.google.com/search?q=mailto%3Asamrat.beketov%40microsoft.com)
+* **Почта:** [samrat.beketov2014@gmail.com](https://www.google.com/search?q=mailto%3Asamrat.beketov2014%40gmail.com)
 * **GitHub:** [github.com/samrat1games](https://github.com/samrat1games)
 
 ---
